@@ -16,7 +16,7 @@ Security: Implements security best practices such as input validation, output es
 Composer Integration: Utilizes Composer for package management and dependency injection.
 
 Installation
-Clone the repository: git clone https://github.com/your/repository.git
+Clone the repository: git clone https://github.com/patcreator/patcreator.github.io
 Navigate to the project directory: cd project-directory
 Install dependencies: composer install
 Getting Started
